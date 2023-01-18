@@ -5,4 +5,4 @@ end
 say
 say "hi"
 say("hello")
-say("how are you?")
+say("how are")
