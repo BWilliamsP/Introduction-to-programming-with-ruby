@@ -1,0 +1,11 @@
+puts "put in a number"
+  a = gets.chomp.to_i
+
+  if a == 3
+    puts "a is 3"
+  elsif a == 4
+    puts "a is 4"
+  else
+    puts "its not 3 or 4!"
+  end
+  
